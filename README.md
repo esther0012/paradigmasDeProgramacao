@@ -1,2 +1,2 @@
 # paradigmasDeProgramacao
-Códigos de Assembly, Prolog, Fortran.
+Códigos de aprendizado de máquina, quebrando paradigmas de lingugens de programação.
